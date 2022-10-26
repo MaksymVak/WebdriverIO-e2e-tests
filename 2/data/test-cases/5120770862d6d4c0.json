@@ -1,0 +1,58 @@
+{
+  "uid" : "5120770862d6d4c0",
+  "name" : "Checking links and news feed texts",
+  "fullName" : "Resources - link testing.Checking links and news feed texts",
+  "historyId" : "ac922f0971eaaa911c1b2d809843fc36",
+  "time" : {
+    "start" : 1666783365389,
+    "stop" : 1666783370118,
+    "duration" : 4729
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-5"
+  }, {
+    "name" : "suite",
+    "value" : "Resources - link testing"
+  }, {
+    "name" : "testClass",
+    "value" : "Resources - link testing"
+  }, {
+    "name" : "testMethod",
+    "value" : "Checking links and news feed texts"
+  }, {
+    "name" : "package",
+    "value" : "Resources - link testing"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-106.0.5249.119"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5120770862d6d4c0.json",
+  "parameterValues" : [ "chrome-106.0.5249.119" ]
+}

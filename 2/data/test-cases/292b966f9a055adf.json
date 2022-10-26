@@ -1,0 +1,58 @@
+{
+  "uid" : "292b966f9a055adf",
+  "name" : "Testing the blog filter",
+  "fullName" : "Resources - link testing.Testing the blog filter",
+  "historyId" : "801d4c0177299f2570eb39f4e67100ea",
+  "time" : {
+    "start" : 1666783355792,
+    "stop" : 1666783365389,
+    "duration" : 9597
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-5"
+  }, {
+    "name" : "suite",
+    "value" : "Resources - link testing"
+  }, {
+    "name" : "testClass",
+    "value" : "Resources - link testing"
+  }, {
+    "name" : "testMethod",
+    "value" : "Testing the blog filter"
+  }, {
+    "name" : "package",
+    "value" : "Resources - link testing"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-106.0.5249.119"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "292b966f9a055adf.json",
+  "parameterValues" : [ "chrome-106.0.5249.119" ]
+}

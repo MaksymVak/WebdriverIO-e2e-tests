@@ -1,0 +1,58 @@
+{
+  "uid" : "5bbac57f33d0c650",
+  "name" : "Report Abuse filling out the form",
+  "fullName" : "Company - link testing.Report Abuse filling out the form",
+  "historyId" : "f114e39e9584982585457dc493420e78",
+  "time" : {
+    "start" : 1666783359525,
+    "stop" : 1666783368540,
+    "duration" : 9015
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Company - link testing"
+  }, {
+    "name" : "testClass",
+    "value" : "Company - link testing"
+  }, {
+    "name" : "testMethod",
+    "value" : "Report Abuse filling out the form"
+  }, {
+    "name" : "package",
+    "value" : "Company - link testing"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-106.0.5249.119"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5bbac57f33d0c650.json",
+  "parameterValues" : [ "chrome-106.0.5249.119" ]
+}

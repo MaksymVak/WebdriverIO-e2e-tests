@@ -1,0 +1,9 @@
+[ {
+  "buildOrder" : 2,
+  "reportUrl" : "https://MaksymVak.github.io/WebdriverIO-e2e-tests/2/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "run" : 20,
+    "retry" : 0
+  }
+} ]

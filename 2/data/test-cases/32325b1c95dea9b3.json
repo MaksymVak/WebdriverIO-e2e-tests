@@ -1,0 +1,58 @@
+{
+  "uid" : "32325b1c95dea9b3",
+  "name" : "Sending a message using a function Talk to an expert",
+  "fullName" : "Login testing.Sending a message using a function Talk to an expert",
+  "historyId" : "fe8b269506b3bd8cc2fe9e639354ad31",
+  "time" : {
+    "start" : 1666783382767,
+    "stop" : 1666783389022,
+    "duration" : 6255
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-2"
+  }, {
+    "name" : "suite",
+    "value" : "Login testing"
+  }, {
+    "name" : "testClass",
+    "value" : "Login testing"
+  }, {
+    "name" : "testMethod",
+    "value" : "Sending a message using a function Talk to an expert"
+  }, {
+    "name" : "package",
+    "value" : "Login testing"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-106.0.5249.119"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "32325b1c95dea9b3.json",
+  "parameterValues" : [ "chrome-106.0.5249.119" ]
+}

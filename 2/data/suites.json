@@ -1,0 +1,293 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "children" : [ {
+    "name" : "Call Us - link testing",
+    "children" : [ {
+      "name" : "Checking the visibility of phone button",
+      "uid" : "c894370980ccc43d",
+      "parentUid" : "260870310be7344bffe9e2ad56577b15",
+      "status" : "passed",
+      "time" : {
+        "start" : 1666783345524,
+        "stop" : 1666783347924,
+        "duration" : 2400
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.119" ]
+    } ],
+    "uid" : "260870310be7344bffe9e2ad56577b15"
+  }, {
+    "name" : "Company - link testing",
+    "children" : [ {
+      "name" : "About Us checking texts and addresses",
+      "uid" : "2a54e429bc858739",
+      "parentUid" : "c19472defbf3a45cbf76b68064a914d4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1666783345537,
+        "stop" : 1666783353818,
+        "duration" : 8281
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.119" ]
+    }, {
+      "name" : "Data & Privacy following links",
+      "uid" : "c0c4451f7e97163",
+      "parentUid" : "c19472defbf3a45cbf76b68064a914d4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1666783353818,
+        "stop" : 1666783359525,
+        "duration" : 5707
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.119" ]
+    }, {
+      "name" : "Report Abuse filling out the form",
+      "uid" : "5bbac57f33d0c650",
+      "parentUid" : "c19472defbf3a45cbf76b68064a914d4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1666783359525,
+        "stop" : 1666783368540,
+        "duration" : 9015
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.119" ]
+    }, {
+      "name" : "Checking page url Privacy Policy",
+      "uid" : "e010c4c7a5a4a8f",
+      "parentUid" : "c19472defbf3a45cbf76b68064a914d4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1666783368540,
+        "stop" : 1666783373311,
+        "duration" : 4771
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.119" ]
+    } ],
+    "uid" : "c19472defbf3a45cbf76b68064a914d4"
+  }, {
+    "name" : "Login testing",
+    "children" : [ {
+      "name" : "Registration on the website with invalid email",
+      "uid" : "2ace602a6f179821",
+      "parentUid" : "f4b07889bbc65f7b0b91277384e5029a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1666783346051,
+        "stop" : 1666783357656,
+        "duration" : 11605
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.119" ]
+    }, {
+      "name" : "Registration on the website with valid email",
+      "uid" : "1d4681c7fba1b436",
+      "parentUid" : "f4b07889bbc65f7b0b91277384e5029a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1666783357657,
+        "stop" : 1666783365740,
+        "duration" : 8083
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.119" ]
+    }, {
+      "name" : "Authorization on the website",
+      "uid" : "ceffc36cdee2817d",
+      "parentUid" : "f4b07889bbc65f7b0b91277384e5029a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1666783365740,
+        "stop" : 1666783377781,
+        "duration" : 12041
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.119" ]
+    }, {
+      "name" : "Password reset",
+      "uid" : "8dfedae1be9219d",
+      "parentUid" : "f4b07889bbc65f7b0b91277384e5029a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1666783377781,
+        "stop" : 1666783382767,
+        "duration" : 4986
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.119" ]
+    }, {
+      "name" : "Sending a message using a function Talk to an expert",
+      "uid" : "32325b1c95dea9b3",
+      "parentUid" : "f4b07889bbc65f7b0b91277384e5029a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1666783382767,
+        "stop" : 1666783389022,
+        "duration" : 6255
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.119" ]
+    } ],
+    "uid" : "f4b07889bbc65f7b0b91277384e5029a"
+  }, {
+    "name" : "Product - link and text testing",
+    "children" : [ {
+      "name" : "Elastic SIP Trunking - Whatever you need, build it with Telnyx",
+      "uid" : "a9b4b517924596a0",
+      "parentUid" : "3cf3019a9fe7d3bedf704bc97d580ce4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1666783346088,
+        "stop" : 1666783372270,
+        "duration" : 26182
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.119" ]
+    }, {
+      "name" : "Voice Api - Build exactly what you need for your use-case",
+      "uid" : "5e1f53ca77196805",
+      "parentUid" : "3cf3019a9fe7d3bedf704bc97d580ce4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1666783372270,
+        "stop" : 1666783378907,
+        "duration" : 6637
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.119" ]
+    }, {
+      "name" : "Voice Api - All your business needs, in one API",
+      "uid" : "d876ffa67c582949",
+      "parentUid" : "3cf3019a9fe7d3bedf704bc97d580ce4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1666783378907,
+        "stop" : 1666783386304,
+        "duration" : 7397
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.119" ]
+    }, {
+      "name" : "Number Lookup - What can you build with the Telnyx Lookup API",
+      "uid" : "dd96905906a03193",
+      "parentUid" : "3cf3019a9fe7d3bedf704bc97d580ce4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1666783386304,
+        "stop" : 1666783392836,
+        "duration" : 6532
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.119" ]
+    }, {
+      "name" : "Fax Api - Check link and page title",
+      "uid" : "fe78d7e1e183e7be",
+      "parentUid" : "3cf3019a9fe7d3bedf704bc97d580ce4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1666783392836,
+        "stop" : 1666783395046,
+        "duration" : 2210
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.119" ]
+    } ],
+    "uid" : "3cf3019a9fe7d3bedf704bc97d580ce4"
+  }, {
+    "name" : "Pricing - function test",
+    "children" : [ {
+      "name" : "Elastic SIP Trunking pricing",
+      "uid" : "4dd493e1874783eb",
+      "parentUid" : "9b9fc10606f9593c095f2ffa10cb5ccd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1666783346216,
+        "stop" : 1666783357171,
+        "duration" : 10955
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.119" ]
+    } ],
+    "uid" : "9b9fc10606f9593c095f2ffa10cb5ccd"
+  }, {
+    "name" : "Resources - link testing",
+    "children" : [ {
+      "name" : "Testing the blog filter",
+      "uid" : "292b966f9a055adf",
+      "parentUid" : "7bbb3ff894567b9d215d29189a811f30",
+      "status" : "passed",
+      "time" : {
+        "start" : 1666783355792,
+        "stop" : 1666783365389,
+        "duration" : 9597
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.119" ]
+    }, {
+      "name" : "Checking links and news feed texts",
+      "uid" : "5120770862d6d4c0",
+      "parentUid" : "7bbb3ff894567b9d215d29189a811f30",
+      "status" : "passed",
+      "time" : {
+        "start" : 1666783365389,
+        "stop" : 1666783370118,
+        "duration" : 4729
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.119" ]
+    }, {
+      "name" : "Resource Hub page title check",
+      "uid" : "6ed7f4954adb997b",
+      "parentUid" : "7bbb3ff894567b9d215d29189a811f30",
+      "status" : "passed",
+      "time" : {
+        "start" : 1666783370118,
+        "stop" : 1666783374607,
+        "duration" : 4489
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.119" ]
+    } ],
+    "uid" : "7bbb3ff894567b9d215d29189a811f30"
+  }, {
+    "name" : "Waitlist - link testing",
+    "children" : [ {
+      "name" : "Waitlist - functionality check",
+      "uid" : "f02e320029b5f8a",
+      "parentUid" : "971d056c72caa97fb70165aa2dd46625",
+      "status" : "passed",
+      "time" : {
+        "start" : 1666783364879,
+        "stop" : 1666783377898,
+        "duration" : 13019
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-106.0.5249.119" ]
+    } ],
+    "uid" : "971d056c72caa97fb70165aa2dd46625"
+  } ],
+  "name" : "suites"
+}

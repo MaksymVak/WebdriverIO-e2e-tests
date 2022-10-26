@@ -1,0 +1,402 @@
+{
+  "ac922f0971eaaa911c1b2d809843fc36" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5120770862d6d4c0",
+      "reportUrl" : "https://MaksymVak.github.io/WebdriverIO-e2e-tests/2//#testresult/5120770862d6d4c0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1666783365389,
+        "stop" : 1666783370118,
+        "duration" : 4729
+      }
+    } ]
+  },
+  "46a7915f96bd766d74a4f1056de7cdea" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e010c4c7a5a4a8f",
+      "reportUrl" : "https://MaksymVak.github.io/WebdriverIO-e2e-tests/2//#testresult/e010c4c7a5a4a8f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1666783368540,
+        "stop" : 1666783373311,
+        "duration" : 4771
+      }
+    } ]
+  },
+  "fe8b269506b3bd8cc2fe9e639354ad31" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "32325b1c95dea9b3",
+      "reportUrl" : "https://MaksymVak.github.io/WebdriverIO-e2e-tests/2//#testresult/32325b1c95dea9b3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1666783382767,
+        "stop" : 1666783389022,
+        "duration" : 6255
+      }
+    } ]
+  },
+  "4739ddd6fb3f47966cac1c450646fb63" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8dfedae1be9219d",
+      "reportUrl" : "https://MaksymVak.github.io/WebdriverIO-e2e-tests/2//#testresult/8dfedae1be9219d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1666783377781,
+        "stop" : 1666783382767,
+        "duration" : 4986
+      }
+    } ]
+  },
+  "f114e39e9584982585457dc493420e78" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5bbac57f33d0c650",
+      "reportUrl" : "https://MaksymVak.github.io/WebdriverIO-e2e-tests/2//#testresult/5bbac57f33d0c650",
+      "status" : "passed",
+      "time" : {
+        "start" : 1666783359525,
+        "stop" : 1666783368540,
+        "duration" : 9015
+      }
+    } ]
+  },
+  "801d4c0177299f2570eb39f4e67100ea" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "292b966f9a055adf",
+      "reportUrl" : "https://MaksymVak.github.io/WebdriverIO-e2e-tests/2//#testresult/292b966f9a055adf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1666783355792,
+        "stop" : 1666783365389,
+        "duration" : 9597
+      }
+    } ]
+  },
+  "d528fdb0063f7c1aa1f094fb846fdf63" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ceffc36cdee2817d",
+      "reportUrl" : "https://MaksymVak.github.io/WebdriverIO-e2e-tests/2//#testresult/ceffc36cdee2817d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1666783365740,
+        "stop" : 1666783377781,
+        "duration" : 12041
+      }
+    } ]
+  },
+  "9006d965da12359c2d9b03ac4072a71" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4dd493e1874783eb",
+      "reportUrl" : "https://MaksymVak.github.io/WebdriverIO-e2e-tests/2//#testresult/4dd493e1874783eb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1666783346216,
+        "stop" : 1666783357171,
+        "duration" : 10955
+      }
+    } ]
+  },
+  "f3de7a1c3bff1eb0dd96cf63efb580f8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d876ffa67c582949",
+      "reportUrl" : "https://MaksymVak.github.io/WebdriverIO-e2e-tests/2//#testresult/d876ffa67c582949",
+      "status" : "passed",
+      "time" : {
+        "start" : 1666783378907,
+        "stop" : 1666783386304,
+        "duration" : 7397
+      }
+    } ]
+  },
+  "87fd078c9c5960d63a6b4801d8110874" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2a54e429bc858739",
+      "reportUrl" : "https://MaksymVak.github.io/WebdriverIO-e2e-tests/2//#testresult/2a54e429bc858739",
+      "status" : "passed",
+      "time" : {
+        "start" : 1666783345537,
+        "stop" : 1666783353818,
+        "duration" : 8281
+      }
+    } ]
+  },
+  "21ec83d1e3eb5f5a4ea69941109091db" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2ace602a6f179821",
+      "reportUrl" : "https://MaksymVak.github.io/WebdriverIO-e2e-tests/2//#testresult/2ace602a6f179821",
+      "status" : "passed",
+      "time" : {
+        "start" : 1666783346051,
+        "stop" : 1666783357656,
+        "duration" : 11605
+      }
+    } ]
+  },
+  "415e704a7cfd8fafca06182a8ec0d3df" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "dd96905906a03193",
+      "reportUrl" : "https://MaksymVak.github.io/WebdriverIO-e2e-tests/2//#testresult/dd96905906a03193",
+      "status" : "passed",
+      "time" : {
+        "start" : 1666783386304,
+        "stop" : 1666783392836,
+        "duration" : 6532
+      }
+    } ]
+  },
+  "ae6d4354a6136fabeab453d854fd1ccf" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a9b4b517924596a0",
+      "reportUrl" : "https://MaksymVak.github.io/WebdriverIO-e2e-tests/2//#testresult/a9b4b517924596a0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1666783346088,
+        "stop" : 1666783372270,
+        "duration" : 26182
+      }
+    } ]
+  },
+  "b569cd207fbd2039ba593d648bc1ebcd" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fe78d7e1e183e7be",
+      "reportUrl" : "https://MaksymVak.github.io/WebdriverIO-e2e-tests/2//#testresult/fe78d7e1e183e7be",
+      "status" : "passed",
+      "time" : {
+        "start" : 1666783392836,
+        "stop" : 1666783395046,
+        "duration" : 2210
+      }
+    } ]
+  },
+  "417a9a98b8d79ac870233199b3004350" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5e1f53ca77196805",
+      "reportUrl" : "https://MaksymVak.github.io/WebdriverIO-e2e-tests/2//#testresult/5e1f53ca77196805",
+      "status" : "passed",
+      "time" : {
+        "start" : 1666783372270,
+        "stop" : 1666783378907,
+        "duration" : 6637
+      }
+    } ]
+  },
+  "e9bc4f841b0a0e68af98d467d50b11a4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c0c4451f7e97163",
+      "reportUrl" : "https://MaksymVak.github.io/WebdriverIO-e2e-tests/2//#testresult/c0c4451f7e97163",
+      "status" : "passed",
+      "time" : {
+        "start" : 1666783353818,
+        "stop" : 1666783359525,
+        "duration" : 5707
+      }
+    } ]
+  },
+  "5dc6f821b80aebd4f43720faf7399fbd" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c894370980ccc43d",
+      "reportUrl" : "https://MaksymVak.github.io/WebdriverIO-e2e-tests/2//#testresult/c894370980ccc43d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1666783345524,
+        "stop" : 1666783347924,
+        "duration" : 2400
+      }
+    } ]
+  },
+  "4a5e7f1c4ca4799cffadc4e435f89010" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1d4681c7fba1b436",
+      "reportUrl" : "https://MaksymVak.github.io/WebdriverIO-e2e-tests/2//#testresult/1d4681c7fba1b436",
+      "status" : "passed",
+      "time" : {
+        "start" : 1666783357657,
+        "stop" : 1666783365740,
+        "duration" : 8083
+      }
+    } ]
+  },
+  "cf0a36abd6393fab7f75ebcec14d3dee" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6ed7f4954adb997b",
+      "reportUrl" : "https://MaksymVak.github.io/WebdriverIO-e2e-tests/2//#testresult/6ed7f4954adb997b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1666783370118,
+        "stop" : 1666783374607,
+        "duration" : 4489
+      }
+    } ]
+  },
+  "c35237509fd9dd8b84578cdf02fd574" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f02e320029b5f8a",
+      "reportUrl" : "https://MaksymVak.github.io/WebdriverIO-e2e-tests/2//#testresult/f02e320029b5f8a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1666783364879,
+        "stop" : 1666783377898,
+        "duration" : 13019
+      }
+    } ]
+  }
+}

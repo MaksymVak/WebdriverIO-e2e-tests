@@ -1,0 +1,58 @@
+{
+  "uid" : "fe78d7e1e183e7be",
+  "name" : "Fax Api - Check link and page title",
+  "fullName" : "Product - link and text testing.Fax Api - Check link and page title",
+  "historyId" : "b569cd207fbd2039ba593d648bc1ebcd",
+  "time" : {
+    "start" : 1666783392836,
+    "stop" : 1666783395046,
+    "duration" : 2210
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-4"
+  }, {
+    "name" : "suite",
+    "value" : "Product - link and text testing"
+  }, {
+    "name" : "testClass",
+    "value" : "Product - link and text testing"
+  }, {
+    "name" : "testMethod",
+    "value" : "Fax Api - Check link and page title"
+  }, {
+    "name" : "package",
+    "value" : "Product - link and text testing"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-106.0.5249.119"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fe78d7e1e183e7be.json",
+  "parameterValues" : [ "chrome-106.0.5249.119" ]
+}

@@ -1,0 +1,58 @@
+{
+  "uid" : "c894370980ccc43d",
+  "name" : "Checking the visibility of phone button",
+  "fullName" : "Call Us - link testing.Checking the visibility of phone button",
+  "historyId" : "5dc6f821b80aebd4f43720faf7399fbd",
+  "time" : {
+    "start" : 1666783345524,
+    "stop" : 1666783347924,
+    "duration" : 2400
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Call Us - link testing"
+  }, {
+    "name" : "testClass",
+    "value" : "Call Us - link testing"
+  }, {
+    "name" : "testMethod",
+    "value" : "Checking the visibility of phone button"
+  }, {
+    "name" : "package",
+    "value" : "Call Us - link testing"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-106.0.5249.119"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c894370980ccc43d.json",
+  "parameterValues" : [ "chrome-106.0.5249.119" ]
+}

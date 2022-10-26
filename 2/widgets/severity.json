@@ -1,0 +1,201 @@
+[ {
+  "uid" : "e010c4c7a5a4a8f",
+  "name" : "Checking page url Privacy Policy",
+  "time" : {
+    "start" : 1666783368540,
+    "stop" : 1666783373311,
+    "duration" : 4771
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c894370980ccc43d",
+  "name" : "Checking the visibility of phone button",
+  "time" : {
+    "start" : 1666783345524,
+    "stop" : 1666783347924,
+    "duration" : 2400
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c0c4451f7e97163",
+  "name" : "Data & Privacy following links",
+  "time" : {
+    "start" : 1666783353818,
+    "stop" : 1666783359525,
+    "duration" : 5707
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4dd493e1874783eb",
+  "name" : "Elastic SIP Trunking pricing",
+  "time" : {
+    "start" : 1666783346216,
+    "stop" : 1666783357171,
+    "duration" : 10955
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a9b4b517924596a0",
+  "name" : "Elastic SIP Trunking - Whatever you need, build it with Telnyx",
+  "time" : {
+    "start" : 1666783346088,
+    "stop" : 1666783372270,
+    "duration" : 26182
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6ed7f4954adb997b",
+  "name" : "Resource Hub page title check",
+  "time" : {
+    "start" : 1666783370118,
+    "stop" : 1666783374607,
+    "duration" : 4489
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2a54e429bc858739",
+  "name" : "About Us checking texts and addresses",
+  "time" : {
+    "start" : 1666783345537,
+    "stop" : 1666783353818,
+    "duration" : 8281
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5bbac57f33d0c650",
+  "name" : "Report Abuse filling out the form",
+  "time" : {
+    "start" : 1666783359525,
+    "stop" : 1666783368540,
+    "duration" : 9015
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8dfedae1be9219d",
+  "name" : "Password reset",
+  "time" : {
+    "start" : 1666783377781,
+    "stop" : 1666783382767,
+    "duration" : 4986
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5e1f53ca77196805",
+  "name" : "Voice Api - Build exactly what you need for your use-case",
+  "time" : {
+    "start" : 1666783372270,
+    "stop" : 1666783378907,
+    "duration" : 6637
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ceffc36cdee2817d",
+  "name" : "Authorization on the website",
+  "time" : {
+    "start" : 1666783365740,
+    "stop" : 1666783377781,
+    "duration" : 12041
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d876ffa67c582949",
+  "name" : "Voice Api - All your business needs, in one API",
+  "time" : {
+    "start" : 1666783378907,
+    "stop" : 1666783386304,
+    "duration" : 7397
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dd96905906a03193",
+  "name" : "Number Lookup - What can you build with the Telnyx Lookup API",
+  "time" : {
+    "start" : 1666783386304,
+    "stop" : 1666783392836,
+    "duration" : 6532
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "32325b1c95dea9b3",
+  "name" : "Sending a message using a function Talk to an expert",
+  "time" : {
+    "start" : 1666783382767,
+    "stop" : 1666783389022,
+    "duration" : 6255
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f02e320029b5f8a",
+  "name" : "Waitlist - functionality check",
+  "time" : {
+    "start" : 1666783364879,
+    "stop" : 1666783377898,
+    "duration" : 13019
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5120770862d6d4c0",
+  "name" : "Checking links and news feed texts",
+  "time" : {
+    "start" : 1666783365389,
+    "stop" : 1666783370118,
+    "duration" : 4729
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fe78d7e1e183e7be",
+  "name" : "Fax Api - Check link and page title",
+  "time" : {
+    "start" : 1666783392836,
+    "stop" : 1666783395046,
+    "duration" : 2210
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1d4681c7fba1b436",
+  "name" : "Registration on the website with valid email",
+  "time" : {
+    "start" : 1666783357657,
+    "stop" : 1666783365740,
+    "duration" : 8083
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "292b966f9a055adf",
+  "name" : "Testing the blog filter",
+  "time" : {
+    "start" : 1666783355792,
+    "stop" : 1666783365389,
+    "duration" : 9597
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2ace602a6f179821",
+  "name" : "Registration on the website with invalid email",
+  "time" : {
+    "start" : 1666783346051,
+    "stop" : 1666783357656,
+    "duration" : 11605
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

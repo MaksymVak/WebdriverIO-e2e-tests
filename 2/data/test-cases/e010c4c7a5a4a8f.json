@@ -1,0 +1,58 @@
+{
+  "uid" : "e010c4c7a5a4a8f",
+  "name" : "Checking page url Privacy Policy",
+  "fullName" : "Company - link testing.Checking page url Privacy Policy",
+  "historyId" : "46a7915f96bd766d74a4f1056de7cdea",
+  "time" : {
+    "start" : 1666783368540,
+    "stop" : 1666783373311,
+    "duration" : 4771
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Company - link testing"
+  }, {
+    "name" : "testClass",
+    "value" : "Company - link testing"
+  }, {
+    "name" : "testMethod",
+    "value" : "Checking page url Privacy Policy"
+  }, {
+    "name" : "package",
+    "value" : "Company - link testing"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-106.0.5249.119"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e010c4c7a5a4a8f.json",
+  "parameterValues" : [ "chrome-106.0.5249.119" ]
+}
