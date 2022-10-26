@@ -25,7 +25,7 @@
         "test:firefox:headles": "cross-env Base_URL='https://telnyx.com/' wdio run config/wdio.firefox.headless.conf.js",
         "allure:serve": "npx allure serve allure-results",
         "allure:generate": "npx allure generate allure-results --clean",
-        "report": "allure generate allure-results --clean && allure open"
+        "allure:report": "allure generate allure-results --clean && allure open"
     },
     "dependencies": {
         "allure-commandline": "^2.18.1"
