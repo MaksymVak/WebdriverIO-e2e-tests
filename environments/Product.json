@@ -1,0 +1,82 @@
+
+{
+    "links": [
+    { 
+        "link": "h3*=UCaaS", 
+        "title": "UCaaS"
+    },
+    { 
+        "link": "h3*=Managed", 
+        "title": "Managed"
+    },
+    { 
+        "link": "h3*=Business", 
+        "title": "Business"
+    },
+    { 
+        "link": "h3*=Multi", 
+        "title": "Multi"
+    }
+    ],
+
+    "linksV": [
+        { 
+            "link": "#tab-0*=Conference Calls", 
+            "title": "h4*=Conference Calls"
+        },
+        { 
+            "link": "#tab-1*=Call Tracking", 
+            "title": "h4*=Call Tracking"
+        },
+        { 
+            "link": "#tab-2*=Cloud IVR", 
+            "title": "h4*=Cloud IVR"
+        },
+        { 
+            "link": "#tab-3*=Contact Cente", 
+            "title": "h4*=Contact Center"
+        },
+        { 
+            "link": "#tab-4*=Sales Acceleration", 
+            "title": "h4*=Sales Acceleration"
+        },
+        { 
+            "link": "#tab-5*=AI & Voice Analytics", 
+            "title": "h4*=AI & Voice Analytics"
+        }
+    ],
+    "linksVApi": [
+        { 
+            "link": "h3*=Cloud IVR", 
+            "title": "Cloud IVR"
+        },
+        { 
+            "link": "h3*=Call Tracking", 
+            "title": "Call Tracking"
+        },
+        { 
+            "link": "h3*=AI & Voice Analytics", 
+            "title": "AI & Voice Analytics"
+        }
+        ],
+
+    "linksLook": [
+        { 
+            "link": "h3*=Factor Authentication", 
+            "title": "Factor Authentication"
+        },
+        { 
+            "link": "h3*=SMS Marketing", 
+            "title": "SMS Marketing"
+        },
+        { 
+            "link": "h3*=Call Tracking", 
+            "title": "Call Tracking"
+        },
+        { 
+            "link": "h3*=Contact Center", 
+            "title": "Telnyx"
+        }
+        ]
+}
+

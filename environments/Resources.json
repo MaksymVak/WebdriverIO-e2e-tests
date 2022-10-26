@@ -1,0 +1,34 @@
+[
+	{ 
+		"title": "h3*=SMS Guide",
+		"textVal": "SMS Guide"
+	},
+	{ 
+		"title": "h3*=VoIP Guide",
+		"textVal": "VoIP Guide"
+	},
+	{ 
+		"title": "h3*=SIP Trunk Guide",
+		"textVal": "SIP Trunk Guide"
+	},
+	{ 
+		"title": "h3*=WebRTC Guide",
+		"textVal": "WebRTC Guide"
+	},
+	{ 
+		"title": "h3*=IoT Guide",
+		"textVal": "IoT Guide"
+	},
+	{ 
+		"title": "h3*=Two-Factor Authentication Guide",
+		"textVal": "Factor Authentication Guide"
+	},
+	{ 
+		"title": "h3*=Fax Guide",
+		"textVal": "Fax Guide"
+	},
+	{ 
+		"title": "h3*=SHAKEN/STIR Guide",
+		"textVal": "SHAKEN/STIR Guide"
+	}
+]

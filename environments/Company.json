@@ -1,0 +1,39 @@
+
+{
+    "citys": [
+    { 
+        "city": "span*=Chicago"
+    },
+    { 
+        "city": "span*=Dublin"
+    },
+    { 
+        "city": "span*=Warsaw"
+    },
+    { 
+        "city": "span*=São Paulo"
+    },
+    { 
+        "city": "span*=Amsterdam"
+    },
+    { 
+        "city": "span*=Denver"
+    }
+    ],
+
+    "titles": [
+    { 
+        "title": "h2*=Telnyx Product Updates "
+    },
+    { 
+        "title": "h2*=GDPR Frequently Asked Questions"
+    },
+    { 
+        "title": "h2*=Compliance"
+    },
+    { 
+        "title": "h2*=Data Transfer Impact Assessment"
+    }
+    ]
+}
+

@@ -1,0 +1,33 @@
+{
+    "name": "webdriverio-tests",
+    "version": "0.1.0",
+    "description": "",
+    "private": true,
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@wdio/allure-reporter": "^7.25.2",
+        "@wdio/cli": "^7.25.2",
+        "@wdio/firefox-profile-service": "^7.25.1",
+        "@wdio/local-runner": "^7.25.2",
+        "@wdio/mocha-framework": "^7.25.2",
+        "@wdio/selenium-standalone-service": "^7.25.1",
+        "@wdio/spec-reporter": "^7.25.1",
+        "chromedriver": "^106.0.1",
+        "cross-env": "^7.0.3",
+        "wdio-chromedriver-service": "^8.0.0"
+    },
+    "scripts": {
+        "test:chrome": "cross-env Base_URL='https://telnyx.com/' wdio run config/wdio.chrome.conf.js --spec test/specs/Callus.spec.js",
+        "test:headles:chrome": "cross-env Base_URL='https://telnyx.com/' wdio run config/wdio.chrome.headless.conf.js",
+        "test:firefox": "cross-env Base_URL='https://telnyx.com/' wdio run config/wdio.firefox.conf.js --spec test/specs/Waitlist.spec.js",
+        "test:firefox:headles": "cross-env Base_URL='https://telnyx.com/' wdio run config/wdio.firefox.headless.conf.js",
+        "allure:serve": "npx allure serve allure-results",
+        "allure:generate": "npx allure generate allure-results --clean",
+        "report": "allure generate allure-results --clean && allure open"
+    },
+    "dependencies": {
+        "allure-commandline": "^2.18.1"
+    }
+}
