@@ -1,0 +1,78 @@
+{
+  "uid" : "17ac45840ce4eae4",
+  "name" : "Authorization on the website",
+  "fullName" : "Login testing.Authorization on the website",
+  "historyId" : "d528fdb0063f7c1aa1f094fb846fdf63",
+  "time" : {
+    "start" : 1666784077175,
+    "stop" : 1666784089190,
+    "duration" : 12015
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-2"
+  }, {
+    "name" : "suite",
+    "value" : "Login testing"
+  }, {
+    "name" : "testClass",
+    "value" : "Login testing"
+  }, {
+    "name" : "testMethod",
+    "value" : "Authorization on the website"
+  }, {
+    "name" : "package",
+    "value" : "Login testing"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-106.0.5249.119"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "ceffc36cdee2817d",
+        "reportUrl" : "https://MaksymVak.github.io/WebdriverIO-e2e-tests/2//#testresult/ceffc36cdee2817d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1666783365740,
+          "stop" : 1666783377781,
+          "duration" : 12041
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "17ac45840ce4eae4.json",
+  "parameterValues" : [ "chrome-106.0.5249.119" ]
+}

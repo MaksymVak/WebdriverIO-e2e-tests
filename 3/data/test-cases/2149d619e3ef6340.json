@@ -1,0 +1,78 @@
+{
+  "uid" : "2149d619e3ef6340",
+  "name" : "Elastic SIP Trunking pricing",
+  "fullName" : "Pricing - function test.Elastic SIP Trunking pricing",
+  "historyId" : "9006d965da12359c2d9b03ac4072a71",
+  "time" : {
+    "start" : 1666784057879,
+    "stop" : 1666784068540,
+    "duration" : 10661
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-3"
+  }, {
+    "name" : "suite",
+    "value" : "Pricing - function test"
+  }, {
+    "name" : "testClass",
+    "value" : "Pricing - function test"
+  }, {
+    "name" : "testMethod",
+    "value" : "Elastic SIP Trunking pricing"
+  }, {
+    "name" : "package",
+    "value" : "Pricing - function test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-106.0.5249.119"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "4dd493e1874783eb",
+        "reportUrl" : "https://MaksymVak.github.io/WebdriverIO-e2e-tests/2//#testresult/4dd493e1874783eb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1666783346216,
+          "stop" : 1666783357171,
+          "duration" : 10955
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "2149d619e3ef6340.json",
+  "parameterValues" : [ "chrome-106.0.5249.119" ]
+}

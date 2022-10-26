@@ -1,0 +1,78 @@
+{
+  "uid" : "52274d3a27e2d727",
+  "name" : "Registration on the website with invalid email",
+  "fullName" : "Login testing.Registration on the website with invalid email",
+  "historyId" : "21ec83d1e3eb5f5a4ea69941109091db",
+  "time" : {
+    "start" : 1666784057955,
+    "stop" : 1666784068877,
+    "duration" : 10922
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-2"
+  }, {
+    "name" : "suite",
+    "value" : "Login testing"
+  }, {
+    "name" : "testClass",
+    "value" : "Login testing"
+  }, {
+    "name" : "testMethod",
+    "value" : "Registration on the website with invalid email"
+  }, {
+    "name" : "package",
+    "value" : "Login testing"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-106.0.5249.119"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "2ace602a6f179821",
+        "reportUrl" : "https://MaksymVak.github.io/WebdriverIO-e2e-tests/2//#testresult/2ace602a6f179821",
+        "status" : "passed",
+        "time" : {
+          "start" : 1666783346051,
+          "stop" : 1666783357656,
+          "duration" : 11605
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "52274d3a27e2d727.json",
+  "parameterValues" : [ "chrome-106.0.5249.119" ]
+}

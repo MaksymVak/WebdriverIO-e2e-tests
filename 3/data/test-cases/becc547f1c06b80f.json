@@ -1,0 +1,78 @@
+{
+  "uid" : "becc547f1c06b80f",
+  "name" : "Voice Api - Build exactly what you need for your use-case",
+  "fullName" : "Product - link and text testing.Voice Api - Build exactly what you need for your use-case",
+  "historyId" : "417a9a98b8d79ac870233199b3004350",
+  "time" : {
+    "start" : 1666784083660,
+    "stop" : 1666784090071,
+    "duration" : 6411
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-4"
+  }, {
+    "name" : "suite",
+    "value" : "Product - link and text testing"
+  }, {
+    "name" : "testClass",
+    "value" : "Product - link and text testing"
+  }, {
+    "name" : "testMethod",
+    "value" : "Voice Api - Build exactly what you need for your use-case"
+  }, {
+    "name" : "package",
+    "value" : "Product - link and text testing"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-106.0.5249.119"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "5e1f53ca77196805",
+        "reportUrl" : "https://MaksymVak.github.io/WebdriverIO-e2e-tests/2//#testresult/5e1f53ca77196805",
+        "status" : "passed",
+        "time" : {
+          "start" : 1666783372270,
+          "stop" : 1666783378907,
+          "duration" : 6637
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "becc547f1c06b80f.json",
+  "parameterValues" : [ "chrome-106.0.5249.119" ]
+}

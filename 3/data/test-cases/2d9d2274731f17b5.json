@@ -1,0 +1,78 @@
+{
+  "uid" : "2d9d2274731f17b5",
+  "name" : "Data & Privacy following links",
+  "fullName" : "Company - link testing.Data & Privacy following links",
+  "historyId" : "e9bc4f841b0a0e68af98d467d50b11a4",
+  "time" : {
+    "start" : 1666784066158,
+    "stop" : 1666784071235,
+    "duration" : 5077
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Company - link testing"
+  }, {
+    "name" : "testClass",
+    "value" : "Company - link testing"
+  }, {
+    "name" : "testMethod",
+    "value" : "Data & Privacy following links"
+  }, {
+    "name" : "package",
+    "value" : "Company - link testing"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-106.0.5249.119"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "c0c4451f7e97163",
+        "reportUrl" : "https://MaksymVak.github.io/WebdriverIO-e2e-tests/2//#testresult/c0c4451f7e97163",
+        "status" : "passed",
+        "time" : {
+          "start" : 1666783353818,
+          "stop" : 1666783359525,
+          "duration" : 5707
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "2d9d2274731f17b5.json",
+  "parameterValues" : [ "chrome-106.0.5249.119" ]
+}

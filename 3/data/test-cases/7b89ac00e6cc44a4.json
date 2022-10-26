@@ -1,0 +1,78 @@
+{
+  "uid" : "7b89ac00e6cc44a4",
+  "name" : "Elastic SIP Trunking - Whatever you need, build it with Telnyx",
+  "fullName" : "Product - link and text testing.Elastic SIP Trunking - Whatever you need, build it with Telnyx",
+  "historyId" : "ae6d4354a6136fabeab453d854fd1ccf",
+  "time" : {
+    "start" : 1666784057707,
+    "stop" : 1666784083659,
+    "duration" : 25952
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-4"
+  }, {
+    "name" : "suite",
+    "value" : "Product - link and text testing"
+  }, {
+    "name" : "testClass",
+    "value" : "Product - link and text testing"
+  }, {
+    "name" : "testMethod",
+    "value" : "Elastic SIP Trunking - Whatever you need, build it with Telnyx"
+  }, {
+    "name" : "package",
+    "value" : "Product - link and text testing"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-106.0.5249.119"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "a9b4b517924596a0",
+        "reportUrl" : "https://MaksymVak.github.io/WebdriverIO-e2e-tests/2//#testresult/a9b4b517924596a0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1666783346088,
+          "stop" : 1666783372270,
+          "duration" : 26182
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "7b89ac00e6cc44a4.json",
+  "parameterValues" : [ "chrome-106.0.5249.119" ]
+}

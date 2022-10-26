@@ -1,0 +1,78 @@
+{
+  "uid" : "5bab541a02982c6d",
+  "name" : "Password reset",
+  "fullName" : "Login testing.Password reset",
+  "historyId" : "4739ddd6fb3f47966cac1c450646fb63",
+  "time" : {
+    "start" : 1666784089191,
+    "stop" : 1666784094276,
+    "duration" : 5085
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-2"
+  }, {
+    "name" : "suite",
+    "value" : "Login testing"
+  }, {
+    "name" : "testClass",
+    "value" : "Login testing"
+  }, {
+    "name" : "testMethod",
+    "value" : "Password reset"
+  }, {
+    "name" : "package",
+    "value" : "Login testing"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-106.0.5249.119"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "8dfedae1be9219d",
+        "reportUrl" : "https://MaksymVak.github.io/WebdriverIO-e2e-tests/2//#testresult/8dfedae1be9219d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1666783377781,
+          "stop" : 1666783382767,
+          "duration" : 4986
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "5bab541a02982c6d.json",
+  "parameterValues" : [ "chrome-106.0.5249.119" ]
+}

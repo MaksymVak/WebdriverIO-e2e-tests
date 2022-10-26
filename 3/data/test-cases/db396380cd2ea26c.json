@@ -1,0 +1,78 @@
+{
+  "uid" : "db396380cd2ea26c",
+  "name" : "Checking page url Privacy Policy",
+  "fullName" : "Company - link testing.Checking page url Privacy Policy",
+  "historyId" : "46a7915f96bd766d74a4f1056de7cdea",
+  "time" : {
+    "start" : 1666784080692,
+    "stop" : 1666784084653,
+    "duration" : 3961
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Company - link testing"
+  }, {
+    "name" : "testClass",
+    "value" : "Company - link testing"
+  }, {
+    "name" : "testMethod",
+    "value" : "Checking page url Privacy Policy"
+  }, {
+    "name" : "package",
+    "value" : "Company - link testing"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-106.0.5249.119"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "e010c4c7a5a4a8f",
+        "reportUrl" : "https://MaksymVak.github.io/WebdriverIO-e2e-tests/2//#testresult/e010c4c7a5a4a8f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1666783368540,
+          "stop" : 1666783373311,
+          "duration" : 4771
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "db396380cd2ea26c.json",
+  "parameterValues" : [ "chrome-106.0.5249.119" ]
+}

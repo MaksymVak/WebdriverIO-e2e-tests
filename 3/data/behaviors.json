@@ -1,0 +1,265 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "children" : [ {
+    "name" : "Elastic SIP Trunking - Whatever you need, build it with Telnyx",
+    "uid" : "7b89ac00e6cc44a4",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1666784057707,
+      "stop" : 1666784083659,
+      "duration" : 25952
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-106.0.5249.119" ]
+  }, {
+    "name" : "Checking the visibility of phone button",
+    "uid" : "1c846055364c7ca5",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1666784057815,
+      "stop" : 1666784059359,
+      "duration" : 1544
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-106.0.5249.119" ]
+  }, {
+    "name" : "Elastic SIP Trunking pricing",
+    "uid" : "2149d619e3ef6340",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1666784057879,
+      "stop" : 1666784068540,
+      "duration" : 10661
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-106.0.5249.119" ]
+  }, {
+    "name" : "Registration on the website with invalid email",
+    "uid" : "52274d3a27e2d727",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1666784057955,
+      "stop" : 1666784068877,
+      "duration" : 10922
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-106.0.5249.119" ]
+  }, {
+    "name" : "About Us checking texts and addresses",
+    "uid" : "91a01b6ac6567c84",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1666784058272,
+      "stop" : 1666784066157,
+      "duration" : 7885
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-106.0.5249.119" ]
+  }, {
+    "name" : "Data & Privacy following links",
+    "uid" : "2d9d2274731f17b5",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1666784066158,
+      "stop" : 1666784071235,
+      "duration" : 5077
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-106.0.5249.119" ]
+  }, {
+    "name" : "Testing the blog filter",
+    "uid" : "2163c2a591b66f60",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1666784067243,
+      "stop" : 1666784075572,
+      "duration" : 8329
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-106.0.5249.119" ]
+  }, {
+    "name" : "Registration on the website with valid email",
+    "uid" : "444ffc9e9f3c6ff2",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1666784068877,
+      "stop" : 1666784077174,
+      "duration" : 8297
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-106.0.5249.119" ]
+  }, {
+    "name" : "Report Abuse filling out the form",
+    "uid" : "b9a9a6dcba79b9da",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1666784071235,
+      "stop" : 1666784080692,
+      "duration" : 9457
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-106.0.5249.119" ]
+  }, {
+    "name" : "Checking links and news feed texts",
+    "uid" : "9ccd1376f5640c5",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1666784075572,
+      "stop" : 1666784080170,
+      "duration" : 4598
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-106.0.5249.119" ]
+  }, {
+    "name" : "Waitlist - functionality check",
+    "uid" : "caa4f00a5516dea9",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1666784075918,
+      "stop" : 1666784087909,
+      "duration" : 11991
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-106.0.5249.119" ]
+  }, {
+    "name" : "Authorization on the website",
+    "uid" : "17ac45840ce4eae4",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1666784077175,
+      "stop" : 1666784089190,
+      "duration" : 12015
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-106.0.5249.119" ]
+  }, {
+    "name" : "Resource Hub page title check",
+    "uid" : "7d07ebcb90910ff2",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1666784080170,
+      "stop" : 1666784084768,
+      "duration" : 4598
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-106.0.5249.119" ]
+  }, {
+    "name" : "Checking page url Privacy Policy",
+    "uid" : "db396380cd2ea26c",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1666784080692,
+      "stop" : 1666784084653,
+      "duration" : 3961
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-106.0.5249.119" ]
+  }, {
+    "name" : "Voice Api - Build exactly what you need for your use-case",
+    "uid" : "becc547f1c06b80f",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1666784083660,
+      "stop" : 1666784090071,
+      "duration" : 6411
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-106.0.5249.119" ]
+  }, {
+    "name" : "Password reset",
+    "uid" : "5bab541a02982c6d",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1666784089191,
+      "stop" : 1666784094276,
+      "duration" : 5085
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-106.0.5249.119" ]
+  }, {
+    "name" : "Voice Api - All your business needs, in one API",
+    "uid" : "4e54ac6aa18f27e5",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1666784090071,
+      "stop" : 1666784096571,
+      "duration" : 6500
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-106.0.5249.119" ]
+  }, {
+    "name" : "Sending a message using a function Talk to an expert",
+    "uid" : "52ae2231098b8c5e",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1666784094276,
+      "stop" : 1666784100714,
+      "duration" : 6438
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-106.0.5249.119" ]
+  }, {
+    "name" : "Number Lookup - What can you build with the Telnyx Lookup API",
+    "uid" : "13489daaa75920b0",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1666784096571,
+      "stop" : 1666784103577,
+      "duration" : 7006
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-106.0.5249.119" ]
+  }, {
+    "name" : "Fax Api - Check link and page title",
+    "uid" : "15e5aab0af8525cc",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1666784103577,
+      "stop" : 1666784105670,
+      "duration" : 2093
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-106.0.5249.119" ]
+  } ],
+  "name" : "behaviors"
+}

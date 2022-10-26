@@ -1,0 +1,78 @@
+{
+  "uid" : "13489daaa75920b0",
+  "name" : "Number Lookup - What can you build with the Telnyx Lookup API",
+  "fullName" : "Product - link and text testing.Number Lookup - What can you build with the Telnyx Lookup API",
+  "historyId" : "415e704a7cfd8fafca06182a8ec0d3df",
+  "time" : {
+    "start" : 1666784096571,
+    "stop" : 1666784103577,
+    "duration" : 7006
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-4"
+  }, {
+    "name" : "suite",
+    "value" : "Product - link and text testing"
+  }, {
+    "name" : "testClass",
+    "value" : "Product - link and text testing"
+  }, {
+    "name" : "testMethod",
+    "value" : "Number Lookup - What can you build with the Telnyx Lookup API"
+  }, {
+    "name" : "package",
+    "value" : "Product - link and text testing"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-106.0.5249.119"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "dd96905906a03193",
+        "reportUrl" : "https://MaksymVak.github.io/WebdriverIO-e2e-tests/2//#testresult/dd96905906a03193",
+        "status" : "passed",
+        "time" : {
+          "start" : 1666783386304,
+          "stop" : 1666783392836,
+          "duration" : 6532
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "13489daaa75920b0.json",
+  "parameterValues" : [ "chrome-106.0.5249.119" ]
+}
